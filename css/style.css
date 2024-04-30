@@ -1,0 +1,138 @@
+html,
+body,
+div {
+  padding: 0;
+  margin: 0;
+}
+.hero{
+	background:url(../img/bg.png)no-repeat;
+	background-size: cover;
+	padding: 185px 0px;
+	color: white;
+}
+.cstm-fnt1{
+	font-size: 22px;
+    font-weight: 500;
+}
+.cstm-fnt2{
+	font-size: 70px;
+	margin-bottom: 40px;
+}
+.cstm-fnt3{
+	font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.cstm-fa{
+	padding: 0px 10px;
+}
+.cstm-btn{
+	color: white;
+    background-color: black;
+    border: 1px solid black;
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+.cstm-btn2{
+	    color: white;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+.cstm-btn3{
+    font-size: 18px;
+    font-weight: 600;
+	background-color: #fc7c4d;
+    color: white!important;
+    border-radius: 7px;
+    padding: 10px 30px;
+    box-shadow: 3px 12px 20px #f97f50;
+    text-decoration: none;
+}
+.cstm-nav{
+	padding: 20px 0px;
+}
+.menu-text{
+	padding: 15px 20px!important;
+	    font-size: 18px;
+    color: black!important;
+    font-weight: 600;
+}
+
+
+
+.funfact{
+	background:url(../img/bg3.png)no-repeat;
+	background-size: cover;
+	padding: 135px 0px;
+}
+.counter{
+	background:url(../img/counter.png)no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 25px 0px;
+}
+
+.counter-nmbr{
+	color: #F86E6B;
+    font-size: 25px;
+    font-weight: 700;
+}
+.counter-text{
+	color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.overview-text{
+	    font-size: 20px;
+    color: #ff4b52;
+}
+.funfact-head{
+	font-size: 50px;
+    font-weight: 700;
+}
+.funfact-pera{
+	margin-bottom: 50px;
+	color: black;
+}
+
+
+.gallery{
+	background:url(../img/bg4.png)no-repeat;
+	background-size: cover; 
+	padding: 185px 0px;
+
+}
+
+
+.gallery-text2{
+	font-size: 30px;
+    font-weight: 700;
+}
+.gallery-row{
+	margin-top: 55px;
+}
+
+.timer{
+	background:url(../img/bg5.png)no-repeat;
+	background-size: cover; 
+	padding: 170px 0px;
+}
+
+
+.timer-nmbr{
+	text-align: left;
+    font-size: 65px;
+    margin-top: 0px;
+    font-weight: 600;
+    color: #ff4b52;
+}
+
+.timer-text{
+	    font-size: 40px;
+    font-weight: 600;
+}
+
+
+
